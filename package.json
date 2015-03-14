@@ -1,0 +1,24 @@
+{
+  "name": "locales-load",
+  "version": "0.0.0",
+  "description": "load locales phrases from dictionary folder ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wwwy3y3/locales-load.git"
+  },
+  "keywords": [
+    "i18n",
+    "express",
+    "locale"
+  ],
+  "author": "wwwy3y3",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/wwwy3y3/locales-load/issues"
+  },
+  "homepage": "https://github.com/wwwy3y3/locales-load"
+}
