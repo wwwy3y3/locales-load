@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/wwwy3y3/locales-load/issues"
   },
-  "homepage": "https://github.com/wwwy3y3/locales-load"
+  "homepage": "https://github.com/wwwy3y3/locales-load",
+  "devDependencies": {
+    "should": "^5.0.0",
+    "mocha": "^2.1.0"
+  },
 }
