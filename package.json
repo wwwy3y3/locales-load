@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/wwwy3y3/locales-load",
   "devDependencies": {
-    "should": "^5.0.0",
+    "should": "^5.2.0",
     "mocha": "^2.1.0"
-  },
+  }
 }
