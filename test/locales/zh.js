@@ -8,5 +8,5 @@ exports.index_out= {
 
 
 exports.index_in= {
-	nav: nav;
+	nav: nav
 }
