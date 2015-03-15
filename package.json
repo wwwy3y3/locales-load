@@ -23,6 +23,8 @@
   "homepage": "https://github.com/wwwy3y3/locales-load",
   "devDependencies": {
     "should": "^5.2.0",
-    "mocha": "^2.1.0"
+    "mocha": "^2.1.0",
+    "express": "^4.12.2",
+    "supertest": "^0.15.0"
   }
 }
