@@ -1,6 +1,6 @@
 {
   "name": "locales-load",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "load locales phrases from dictionary folder ",
   "main": "index.js",
   "scripts": {
