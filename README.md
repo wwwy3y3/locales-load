@@ -18,3 +18,9 @@ Locales.configure({
 // for example index, load locales for index
 app.get('/', Locales.load('index'), views.index);
 ```
+
+# todo
+- [ ] add more explanation in readme
+
+# license
+mit
